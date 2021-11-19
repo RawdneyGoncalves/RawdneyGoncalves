@@ -8,7 +8,7 @@
 
 ![Rawdney's GitHub status](https://github-readme-stats.vercel.app/api?username=RawdneyGoncalves&show_icons=true&theme=dark)
 
-## Tecnologias que uso no meu dia
+### Tecnologias que tenho conhecimento: 
 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
