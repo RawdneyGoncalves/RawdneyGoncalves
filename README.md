@@ -2,7 +2,7 @@
 #### 
 
 [![Redes Sociais](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rawdney-mendes-a74aa2187/) 
-[![Insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rawdney.development/)
+[![Insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rawdney.mendes/)
 ![git](https://img.shields.io/github/followers/RawdneyGoncalves.svg?style=social&label=Follow&maxAge=2592000
 )
 
