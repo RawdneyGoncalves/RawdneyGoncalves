@@ -15,7 +15,7 @@
 ![JavaScript](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-## Apaixonado por Back-end 
+## Apaixonado por Back-end :D
 
 
 ![plak](https://github-readme-stats.vercel.app/api/top-langs/?username=RawdneyGoncalves&theme=blue-green)
