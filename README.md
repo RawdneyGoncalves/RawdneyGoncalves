@@ -22,7 +22,8 @@
 ![JavaScript](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-## Apaixonado por Back-end :D
+## Apaixonado por Back-end 
+
 
 
 ![plak](https://github-readme-stats.vercel.app/api/top-langs/?username=RawdneyGoncalves&theme=blue-green)
