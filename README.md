@@ -28,4 +28,4 @@
 
 ![plak](https://github-readme-stats.vercel.app/api/top-langs/?username=RawdneyGoncalves&theme=blue-green)
 
-              
+ <p align="center"> <img alingn="center" src="https://profile-counter.glitch.me/RawdneyGoncalves/count.svg" /></p>
