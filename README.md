@@ -1,5 +1,5 @@
 ### Olá, me chamo Rawdney Mendes 👋
-# Software Engineer with javascript / PHP / R
+# Software Engineer with javascript /Python / PHP / R
 #### 
 
 [![Redes Sociais](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rawdney-mendes-a74aa2187/) 
