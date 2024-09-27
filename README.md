@@ -10,7 +10,7 @@
 ### Tecnologias que tenho conhecimento: 
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,lua,express,nginx,nestjs,jenkins,docker,aws&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,lua,express,nestjs,jest,kafka,laravel,php,ruby,rails,python,flask,gcp,docker,nginx,nestjs,jenkins,sentry,docker,aws,&theme=dark)](https://skillicons.dev)
 ## Banco de dados SQL e NoSQL
 ![JavaScript](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
