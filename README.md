@@ -212,13 +212,9 @@ Modernização de sistemas legados e implementação de arquitetura moderna.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,50:00aa00,100:004400&height=300&section=header&text=RAWDNEY%20MENDES&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=ENGENHEIRO%20DE%20SOFTWARE%20%7C%20FULLSTACK%20%7C%20SYSTEMS%20ARCHITECT&descAlignY=58&descAlign=50&descSize=25" width="100%"/>
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="900">
 
 ### "A tecnologia não é o futuro, é o presente moldando cada byte da realidade"
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="900">
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
